@@ -1,0 +1,7 @@
+para saber quais são os interruptores de cada  lâmpada  
+passo um ligar o priemro dos interruptores e deixa alguns minutos após isso desliga e liga o segundo
+enquando isso voce vai a primeira sala se ele estiver acessa é o referente ao segundo interruptores
+caso não, você verifica a temperatura da lâmpada se estiver quente é referente ao primeiro 
+e caso não esteja é referente ao terceiro interruptor,
+após a resposta dessa sala você vai para proxima e segue a mesma lógica
+com isso saberá qual interruptor refere a qual sala 
